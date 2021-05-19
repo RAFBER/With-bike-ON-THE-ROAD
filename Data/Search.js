@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Introduction Topics/About.htm'],s:['0','kwiatkowska','weather'],p:[['0',9],['by',8],['forums',10],['lake',2],['per',16],['tent',2],['way',2]]});
