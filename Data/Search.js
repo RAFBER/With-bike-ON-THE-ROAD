@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Introduction Topics/About.htm'],s:['0','keep','usu'],p:[['0',9],['bring',2],['first',2],['it',7],['on',8],['solet',16],['troubles',6]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Introduction Topics/About.htm'],s:['0','jamneński','ugliest'],p:[['0',9],['bought',2],['fell',3],['is',6],['of',4],['she',2],['to',5]]});
