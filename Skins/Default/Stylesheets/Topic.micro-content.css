@@ -411,6 +411,13 @@
 	color: #19b9f3;
 }
 
+.micro-response iframe.youtube-player_0
+{
+	display: inline-block;
+	width: 397px;
+	height: 277px;
+}
+
 .micro-response .dropDown
 {
 	hanging-punctuation: first;
