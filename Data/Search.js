@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Introduction Topics/About.htm'],s:['0','reason'],p:[['0',9],['exceptions',7],['not',10],['to',8]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Introduction Topics/About.htm'],s:['0','have','slope'],p:[['0',9],['be',3],['doctors',3],['heated',3],['learn',2],['once',5],['seat',3],['themselves',9],['were',3]]});
