@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5 - Top Navigation.fltar" Date="2021-05-23T13:19:18.4315902+02:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5 - Top Navigation.fltar" Date="2021-05-30T19:43:30.6178106+02:00">
     <Messages>Compiling target HTML5 - Top Navigation...
 Removing previously generated content...
 Error validating conditional expression: Unrecognized tag: General.Audience B
@@ -59,7 +59,7 @@ Processing topic: Expeditions\Warmia.htm...
 Applying master page OtherTopics.flmsp...
 Generated Expeditions\Warmia.htm
 Processing topic: Home.htm...
-Missing linked source file: F:\01_STUDIA\0_Semestr-1\With-bike-ON-THE-ROAD_PDF\Content\Videos\VID_01.3gp
+Missing linked source file: F:\01_STUDIA\With-bike-ON-THE-ROAD_Project\Content\Videos\VID_01.3gp
 Applying master page HomePage.flmsp...
 Generated Home.htm
 Processing topic: Sample Landing Topic.htm...
@@ -90,16 +90,18 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated index.htm
 Saving result set...
 Ignored Compiler Warnings: 337
-Output generated in 21 second(s).
+Output generated in 19 second(s).
 
 Done
 Running Post-Build Event Command...
+Run Command Error: Nie można odnaleźć pliku - HTML5 - Top Navigation
 Post-Build Event Command Done
-Saving log to "F:\01_STUDIA\0_Semestr-1\With-bike-ON-THE-ROAD_PDF\Output\HTML5 - Top Navigation\HTML5 - Top Navigation.mclog"
+Saving log to "F:\01_STUDIA\With-bike-ON-THE-ROAD_Project\Output\HTML5 - Top Navigation\HTML5 - Top Navigation.mclog"
 </Messages>
     <Warnings>
         <LogEntry Message="Error validating conditional expression: Unrecognized tag: General.Audience B&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10052" />
-        <LogEntry File="../../../Content/Home.htm" Message="Missing linked source file: F:\01_STUDIA\0_Semestr-1\With-bike-ON-THE-ROAD_PDF\Content\Videos\VID_01.3gp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry File="../../../Content/Home.htm" Message="Missing linked source file: F:\01_STUDIA\With-bike-ON-THE-ROAD_Project\Content\Videos\VID_01.3gp&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Top Navigation" ErrorID="10001" />
+        <LogEntry Message="Run Command Error: Nie można odnaleźć pliku - HTML5 - Top Navigation&#xA;" LineIndex="-1" CharIndex="-1" Target="HTML5 - Top Navigation" ErrorID="10157" />
     </Warnings>
     <Errors />
 </MadCapLog>
