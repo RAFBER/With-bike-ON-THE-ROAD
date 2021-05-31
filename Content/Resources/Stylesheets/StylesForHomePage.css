@@ -557,6 +557,7 @@ Styles after this point are styles that are for specific mediums. If any additio
 	{
 		display: default;
 		text-align: center;
+		height: 500px;
 	}
 }
 
@@ -651,11 +652,11 @@ Styles after this point are styles that are for specific mediums. If any additio
 	{
 		display: default;
 		text-align: center;
-		height: 415px;
 		padding-bottom: 0px;
 		padding-top: 0px;
 		padding-left: 0px;
 		padding-right: 0px;
+		height: 200px;
 	}
 
 	header
