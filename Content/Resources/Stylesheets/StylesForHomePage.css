@@ -106,11 +106,12 @@ div.topic-hero	/*This is the Hero/Banner on the Home Page - To replace the banne
 	background-size: cover;
 	background-repeat: no-repeat;
 	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
-	background-position: center;
 	padding-top: 150px;
 	padding-bottom: 150px;
 	height: 830px;
 	background-image: url('../Images/Assets/HeroStockImages/02.jpg');
+	background-position: center 0;
+	background-attachment: fixed;
 }
 
 /*==Home Tiles section==*/
