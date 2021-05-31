@@ -111,7 +111,7 @@ div.topic-hero	/*This is the Hero/Banner on the Home Page - To replace the banne
 	height: 830px;
 	background-image: url('../Images/Assets/HeroStockImages/02.jpg');
 	background-position: center 0;
-	background-attachment: fixed;
+	background-attachment: scroll;
 }
 
 /*==Home Tiles section==*/
