@@ -240,8 +240,8 @@
 
 	.title-bar .menu-icon span
 	{
-		background: transparent url('Images/Menu.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Menu.png') no-repeat center center;
+		background: #191970 url('Images/Menu.png') no-repeat center center;
+		-pie-background: #191970 url('Skins/Fluid/Stylesheets/Images/Menu.png') no-repeat center center;
 	}
 
 	nav.title-bar .menu-icon
