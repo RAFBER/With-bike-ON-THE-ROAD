@@ -13,6 +13,7 @@
 	{
 		width: 511px;
 		height: 55px;
+		align-self: flex-start;
 		background: #808080 url('Images/Logo.png') no-repeat center center;
 		-pie-background: #808080 url('Skins/Fluid/Stylesheets/Images/Logo.png') no-repeat center center;
 	}
@@ -148,6 +149,8 @@
 	.title-bar-layout .logo-wrapper
 	{
 		min-height: 55px;
+		align-self: flex-start;
+		justify-content: center;
 	}
 
 	.menu-icon-container
