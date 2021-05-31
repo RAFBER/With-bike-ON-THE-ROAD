@@ -552,6 +552,12 @@ Styles after this point are styles that are for specific mediums. If any additio
 		width: 25%;
 		margin-left: 0%;
 	}
+
+	div.topic-hero
+	{
+		display: default;
+		text-align: center;
+	}
 }
 
 @media only screen and (max-width: 767px)
@@ -639,6 +645,12 @@ Styles after this point are styles that are for specific mediums. If any additio
 	div.home-master-page-footer > div:nth-child(3)
 	{
 		width: 100%;
+	}
+
+	div.topic-hero
+	{
+		display: default;
+		text-align: center;
 	}
 }
 
