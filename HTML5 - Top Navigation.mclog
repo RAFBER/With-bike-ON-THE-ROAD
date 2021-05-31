@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5 - Top Navigation.fltar" Date="2021-05-31T09:59:56.9001071+02:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5 - Top Navigation.fltar" Date="2021-05-31T10:31:33.0617512+02:00">
     <Messages>Compiling target HTML5 - Top Navigation...
 Removing previously generated content...
 Error validating conditional expression: Unrecognized tag: General.Audience B
@@ -90,7 +90,7 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated index.htm
 Saving result set...
 Ignored Compiler Warnings: 337
-Output generated in 20 second(s).
+Output generated in 17 second(s).
 
 Done
 Running Post-Build Event Command...

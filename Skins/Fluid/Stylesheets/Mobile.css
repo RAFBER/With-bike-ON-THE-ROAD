@@ -11,11 +11,11 @@
 
 	.title-bar-layout a.logo
 	{
-		width: 511px;
-		height: 55px;
+		width: 256px;
+		height: 28px;
 		align-self: flex-start;
-		background: #808080 url('Images/Logo.png') no-repeat center center;
-		-pie-background: #808080 url('Skins/Fluid/Stylesheets/Images/Logo.png') no-repeat center center;
+		background: #808080 url('Images/Logo_Mobile.png') no-repeat center center;
+		-pie-background: #808080 url('Skins/Fluid/Stylesheets/Images/Logo_Mobile.png') no-repeat center center;
 	}
 
 	.search-bar .search-submit
@@ -148,14 +148,14 @@
 
 	.title-bar-layout .logo-wrapper
 	{
-		min-height: 55px;
+		min-height: 40px;
 		align-self: flex-start;
-		justify-content: center;
+		justify-content: flex-start;
 	}
 
 	.menu-icon-container
 	{
-		min-height: 55px;
+		min-height: 40px;
 	}
 
 	.off-canvas-wrapper-inner .main-section > .outer-row
@@ -165,12 +165,12 @@
 
 	.main-section > .outer-row
 	{
-		
+		max-width: 31em;
 	}
 
 	.off-canvas-wrapper-inner .outer-row
 	{
-		
+		max-width: 31em;
 	}
 
 	.off-canvas
